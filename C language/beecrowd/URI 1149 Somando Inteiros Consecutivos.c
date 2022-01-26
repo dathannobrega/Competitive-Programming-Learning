@@ -13,6 +13,7 @@ int main()
                 soma += A;
                 A++;
             }
+            
             printf("%d\n", soma);
             break;
         }
