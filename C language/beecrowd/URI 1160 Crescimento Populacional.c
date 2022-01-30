@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
 
@@ -28,6 +27,5 @@ int main()
         }
         anos = 0;
     }
-
     return 0;
 }
